@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- TERMINAL HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=booting+system...;accessing+github+profile...;WELCOME+USER;hacker+mode+active" />
+</p>
 
-<!--
-**Valerie123956/Valerie123956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```bash
+user@github:~$ whoami
+YOUR_USERNAME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+user@github:~$ echo "about"
+Developer • Builder • Night coder • Enjoys terminal aesthetics
+
+user@github:~$ status
+LEARNING | BUILDING | BREAKING | REPEATING
