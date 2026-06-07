@@ -7,10 +7,10 @@
 
 ```bash
 user@github:~$ whoami
-YOUR_USERNAME
+WindowsXPlover
 
 user@github:~$ echo "about"
-Developer • Builder • Night coder • Enjoys terminal aesthetics
+Developer • Builder • Windows/Linux User • dumbahh with coding skills
 
 user@github:~$ status
-LEARNING | BUILDING | BREAKING | REPEATING
+LEARNING | BUILDING | BREAKING SETUP  | REPEATING
