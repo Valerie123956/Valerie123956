@@ -10,7 +10,7 @@ user@github:~$ whoami
 WindowsXPlover
 
 user@github:~$ echo "about"
-Developer • Builder • Windows/Linux User • dumbahh with coding skills
+Developer • Builder • Windows/Linux User • someone with coding skills
 
 user@github:~$ status
 LEARNING | BUILDING | BREAKING SETUP  | REPEATING
